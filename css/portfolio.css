@@ -238,7 +238,7 @@ h6{
 /* HOME */
 
 .home{
-    background-image: url("../asset/home_banner.jpg");
+    background-image: url("../asset/home_banner.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center left;
