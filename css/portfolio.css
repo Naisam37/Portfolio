@@ -238,7 +238,8 @@ h6{
 /* HOME */
 
 .home{
-    background-image: url("../asset/home_banner.jpg");
+    
+    background: linear-gradient(to bottom right, #0e2127, #182e38);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center left;
