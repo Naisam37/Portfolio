@@ -14,7 +14,7 @@ const navToggle = document.querySelector(".nav_toggle"),
 /*===== TYPING TEXT =====*/
 
     var typed = new Typed(".profession_text", {
-        strings: ["Web Developer", "Web Designer", "Web Monster"],
+        strings: ["Web Developer", "Web Designer",],
         typeSpeed: 70,
         backSpeed: 70,
         loop: true,
